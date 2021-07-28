@@ -1,0 +1,11 @@
+.player-container{
+    display: flex;
+}
+.player{
+    width: 70%;
+    margin-left: 20px;
+    margin-right: 5px;
+    border-radius: 1px solid rgba(24,17,17);
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}

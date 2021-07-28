@@ -1,0 +1,10 @@
+.search-style{
+    width: 50%;
+    align-items: center;
+    justify-content: center;
+    margin-right: 10px;
+}
+h2{
+    padding: 10px;
+    margin: 10px;
+}
